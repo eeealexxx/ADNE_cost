@@ -1,0 +1,1 @@
+APPLICATION_NAME_DICT = {'APP1':'full_app_name_1', 'APP2':'full_app_name_2'}

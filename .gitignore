@@ -1,0 +1,6 @@
+*.conf
+*.json
+*.pem
+!*.sample.pem
+!*.sample.json
+!*.sample.conf
