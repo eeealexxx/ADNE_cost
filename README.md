@@ -4,7 +4,7 @@
 
 orgID = '**12345678**' special 8 digital code of orgId in Aplle Search Advertise network
 
-For obtained dataframe with cost you campaigns you have to run next:
+For obtained dataframe with cost your campaigns, you have to run next:
 
 _**df_cost = ASA_data_API(orgID).get_api_data('2021-11-11','2021-11-11')**_
 
