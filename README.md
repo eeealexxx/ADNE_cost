@@ -15,6 +15,7 @@ Detail information from developer site: https://developer.apple.com/documentatio
 ## Facebook network
 
 All necessary parameters are present in **facebook.conf** which is located in the same directory with the main script. 
+
 For obtained dataframe with cost your campaigns, you have to run next:
 
 _**df_cost = Facebook_API_cost().load_api_cost('2021-12-01','2021-12-01')**_
